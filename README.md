@@ -20,3 +20,5 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 <------------------------------------------------------------------------------>
 In the GoogleSpeedApi connector function make sure you add your own api key for it to work!
 <------------------------------------------------------------------------------>
+
+Link to the youtube channel: https://www.youtube.com/watch?v=eFg8ik8vuiY
