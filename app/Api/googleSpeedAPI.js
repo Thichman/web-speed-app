@@ -1,6 +1,7 @@
 // api/googleSpeedTestApi.js
 const apiUrl = 'https://www.googleapis.com/pagespeedonline/v5/runPagespeed';
-const apiKey = 'AIzaSyAFcD5f1yCcWdhFFGBtLH3qLRn2IRRosEc'; // Replace with your actual API key
+
+const apiKey = ''; // <-----Replace with your actual API key from googlePageSpeed insights
 
 export const getGoogleSpeedTestResults = async (url) => {
 
